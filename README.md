@@ -1,0 +1,1 @@
+Just a very quick project from The Odin Project. In this project will just be using very basic HTML.
